@@ -1,0 +1,6 @@
+{
+  "version": "0.9.0",
+  "installer_url": "https://github.com/wanzizzang2419/wow-boss-cut-releases/releases/download/v0.9.0/WoWBossCutter-Setup.exe",
+  "sha256": "2ECEEA0964C82AC776D60F315CEE987A5D8EC3CF05A0117EEFDCBDDFBE7E9B76",
+  "notes": "Initial Windows release of WoW Boss Cutter."
+}

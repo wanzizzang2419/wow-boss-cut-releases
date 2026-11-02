@@ -1,6 +1,6 @@
 {
-  "version": "0.10.0",
-  "installer_url": "https://github.com/wanzizzang2419/wow-boss-cut-releases/releases/download/v0.10.0/WoWBossCutter-Setup.exe",
-  "sha256": "98CE065DCF69D48BBDE147F83CF81EF66260C2E8CB90AC149288EB3A45A11CA5",
-  "notes": "v0.10.0: CombatLog-assisted Boss detection, improved HTTP interface and one-pass video export."
+    "version":  "0.11.0",
+    "installer_url":  "https://github.com/wanzizzang2419/wow-boss-cut-releases/releases/download/v0.11.0/WoWBossCutter-Setup.exe",
+    "sha256":  "99a2578827b581d8a0b13ce499a1ee7f358fe2e672bf4e596d60a31860426d4a",
+    "notes":  "v0.11.0: v11 Log-only detection and multi-raid export."
 }
